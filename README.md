@@ -5,7 +5,7 @@ This is a Landing Page for a E-commerce website selling Orgainc Products Online
 
 
 ## 🛠 Skills
- HTML | CSS 
+ `HTML`   `CSS` 
 
 
 ## Screenshots
