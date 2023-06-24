@@ -194,16 +194,16 @@ margin-bottom: 2.5rem;
    }
 
    .category-card1{
-      background-image: url(/assets/t-fruits.jpg) ;
+      background-image: url(assets/t-fruits.jpg) ;
       background-size: 15rem;
       
    }
    .category-card2{
-      background-image: url(/assets/veg-t.jpg);
+      background-image: url(assets/veg-t.jpg);
       background-size: 20rem;
    }
    .category-card3{
-      background-image: url(/assets/soya-t.jpg);
+      background-image: url(assets/soya-t.jpg);
       background-size: 15rem;
    }
    .category .category-card .call-to-action .call-to-action-btn{
