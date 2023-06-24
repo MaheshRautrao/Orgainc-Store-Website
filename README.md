@@ -6,7 +6,9 @@ This is a Landing Page for a E-commerce website selling Orgainc Products Online
 
 ## 🛠 Skills
  `HTML`   `CSS` 
-
+ 
+## DEMO
+https://maheshrautrao.github.io/Orgainc-Store-Website/
 
 ## Screenshots
 
